@@ -1,0 +1,22 @@
+.main{
+    background-color: rgb(111, 202, 198);
+    margin: 10% 25%;
+    text-align: center;
+    padding: 5%;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5%;
+    justify-content: space-around;
+}
+input{
+    display: block;
+    margin: 5%;
+    align-self: center;
+}
+
+button{
+    background-color: rgb(124, 55, 204);
+}
